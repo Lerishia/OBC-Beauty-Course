@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest
-  identifier="my-astro-course"
+  identifier="module-3"
   version="1.0"
   xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
   xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
@@ -16,9 +16,9 @@
 
   <organizations default="ORG-1">
     <organization identifier="ORG-1">
-      <title>My Astro Course</title>
+      <title>eLearning</title>
       <item identifier="ITEM-1" identifierref="RES-1" isvisible="true">
-        <title>My Astro Course</title>
+        <title>eLearning</title>
       </item>
     </organization>
   </organizations>
@@ -32,11 +32,10 @@
       <file href="favicon.ico" />
       <file href="favicon.svg" />
       <file href="index.html" />
-      <file href="scorm/scorm-adapter.js" />
-      <file href="scorm/SCORM_API_wrapper.js" />
+      <file href="scorm/scorm-runtime.js" />
       <file href="tfg-quick-course/index.html" />
-      <file href="_astro/course-hero.7IiudU7a.jpg" />
       <file href="_astro/index@_@astro.BeVnUf95.css" />
+      <file href="_astro/Mod_3_hero_img.Fuv72KR0.jpg" />
       <file href="_astro/obc-blush-due-2-coverimg.CeN7WARK.jpg" />
       <file href="_astro/OBC-blush-duo-2-1.BBL2me9D.png" />
       <file href="_astro/OBC-blush-duo-2-2.XjEhow_K.png" />
@@ -51,7 +50,7 @@
       <file href="_astro/OBC-skin-tint-1.Drmww64w.jpg" />
       <file href="_astro/OBC-skin-tint-2.CfNbNUC9.jpg" />
       <file href="_astro/obc-the-bronzer-coverimg.CsB2PGOK.jpg" />
-      <file href="_astro/obc-the-flawless-corrector-coverimg.BCdi0ETm.jpg" />
+      <file href="_astro/skin-tint-coverimg.9_9J7G9w.jpg" />
     </resource>
   </resources>
 </manifest>
